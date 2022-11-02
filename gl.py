@@ -236,7 +236,7 @@ class Render(object):
         glColoring(mainX, mainY, cl, color2, 1)
         self.glPoint(mainX, mainY, color(0, 1, 0))
         glColoring(mainX, mainY, cl, color2, 2)
-        self.glPoint(mainX, mainY, color(0, 1, 0))
+        self.glPoint(mainX, mainY, color(0, 0, 0))
 
     def glFinish(self, filename):
         # constantes y calculos

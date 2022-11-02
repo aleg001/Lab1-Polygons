@@ -44,11 +44,13 @@ def Lab1(filename):
         V2(517, 144),
         V2(466, 180),
     ]
+    figure5 = [V2(682, 175), V2(708, 120), V2(735, 148), V2(739, 170)]
 
     r.glPolygon(figure1, wh)
     r.glPolygon(figure2, wh)
     r.glPolygon(figure3, wh)
     r.glPolygon(figure4, wh)
+    r.glPolygon(figure5, color(0, 0, 0))
 
     r.glFinish(filename)
     im = Image.open(filename)
