@@ -8,6 +8,8 @@
 
 ✅ Polígono 4: 50 puntos
 
+✅ Polígono 5: 30 puntos
+
 Total: 🔥 100 puntos 🔥
 
 
